@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationSample", "LocalizationSample\LocalizationSample.csproj", "{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Debug|iPhone.Build.0 = Debug|iPhone
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Release|iPhone.Build.0 = Release|iPhone
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{7EBFA0F9-F0DC-463A-93B6-7B13C9DCC9A7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB31A88-5188-4F90-82D6-FEEE5B8A6813}
+	EndGlobalSection
+EndGlobal
